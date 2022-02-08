@@ -13,7 +13,7 @@ Test task
 
 # TODO Import the dataset 
 
-path = r'./data/weather_dataset.data'
+# path = r'./data/weather_dataset.data'
 
 # TODO  Assign it to a variable called data and replace the first 3 columns by a proper datetime index
 
@@ -52,3 +52,4 @@ path = r'./data/weather_dataset.data'
 
 
 # TODO Calculate the min, max and mean windspeeds and standard deviations of the windspeeds across all locations for each week (assume that the first week starts on January 2 1961) for the first 21 weeks
+
